@@ -1,45 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE,8A3FFC&height=200&section=header&text=WebX%20Nova&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=We%20don%27t%20just%20build%20websites.%20We%20solve%20real%20problems.&descAlignY=58&descSize=16" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A3FFC,0F62FE,8A3FFC&height=220&section=header&text=WebX%20Nova&fontSize=72&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=We%20don%27t%20build%20websites.%20We%20solve%20real%20problems.&descAlignY=62&descSize=17&descColor=c4b5fd" width="100%"/>
 
 <br/>
 
-## Who We Are
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A3FFC&center=true&vCenter=true&width=600&lines=Digital+Solutions+for+Education+%F0%9F%8E%93;We+diagnose+what%27s+costing+you+%F0%9F%94%8D;Then+we+build+what+fixes+it+%E2%9A%99%EF%B8%8F;Your+mission+deserves+to+be+found+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email%20Us-0F62FE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webxnovaagency.com)
+[![Website](https://img.shields.io/badge/Our%20Website-8A3FFC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://webxnova.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webx-nova/)
+
+<img src="https://komarev.com/ghpvc/?username=webxnova&label=Profile+Views&color=8A3FFC&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+## 🌐 Who We Are
 
 > *"Great education deserves a presence that works as hard as it teaches."*
 
-**WebX Nova** is a web solutions company built specifically for **educational institutions** — schools, colleges, training centers, and learning platforms. We exist because too many institutions carry real impact and genuine value, yet lose students, inquiries, and trust to a digital presence that simply doesn't reflect who they are.
+**WebX Nova** is a web solutions agency built exclusively for **educational institutions** — schools, colleges, training centers, and learning platforms. We exist because too many institutions carry real impact and genuine value, yet lose students, inquiries, and trust to a digital presence that simply doesn't reflect who they are.
 
-We don't sell websites. We diagnose what's quietly costing you — unclear messaging, broken inquiry flows, weak trust signals — and build digital experiences that fix the root problem.
+We don't sell websites. We diagnose what's quietly costing you — unclear messaging, broken inquiry flows, weak trust signals — and build digital experiences that fix the **root problem**.
 
 ---
 
-## What We Do
+## ⚙️ How We Work
 
 ```
-📌 Discovery      →   We study your institution, your students, your gaps
-🔍 Strategy       →   We identify why inquiries drop, trust breaks, or stories go untold
-⚙️  Build          →   We craft purposeful, high-performance web experiences
-📈 Impact         →   We measure success by enrollment, trust, and growth — not aesthetics
+🔍  DISCOVER    →   Study your institution, your students, your gaps
+🎯  STRATEGIZE  →   Identify why inquiries drop, trust breaks, stories go untold
+⚙️  BUILD        →   Craft purposeful, high-performance web experiences
+📈  MEASURE     →   Success = enrollment, trust, and growth — not aesthetics
 ```
 
 ---
 
-## Our Services
+## 🎓 Our Services
 
-| Service | What It Solves |
-|---|---|
-| 🎓 **Educational Web Design** | Weak digital presence that turns away prospective students |
-| 🔄 **Admission Flow Optimization** | Confusing or broken enrollment journeys |
-| 📣 **Institutional Storytelling** | Your mission isn't being communicated clearly online |
-| ⚡ **Performance & Speed** | Slow, unresponsive websites that lose visitors before they read a word |
-| 🔒 **Trust-First UI/UX** | Designs that build credibility from the very first click |
+| Icon | Service | Problem We Solve |
+|------|---------|-----------------|
+| 🎓 | **Educational Web Design** | Weak digital presence that turns away prospective students |
+| 🔄 | **Admission Flow Optimization** | Confusing or broken enrollment journeys |
+| 📣 | **Institutional Storytelling** | Your mission isn't being communicated clearly online |
+| ⚡ | **Performance & Speed** | Slow, unresponsive websites that lose visitors before they read |
+| 🔒 | **Trust-First UI/UX** | Designs that build credibility from the very first click |
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -56,29 +68,33 @@ We don't sell websites. We diagnose what's quietly costing you — unclear messa
 
 ---
 
-## Our Impact So Far
+## 📊 Impact So Far
 
-We are early in our journey — but every project we take on is a commitment to real, measurable change for the institutions that trust us.
+<div align="center">
 
-- 🏫 **2 Educational Institutions** served with purpose-built digital experiences
-- 🎯 Every project begins with a problem statement, not a design brief
-- 🤝 Long-term partners, not one-time vendors
+| 🏫 Institutions Served | 🎯 Approach | 🤝 Promise |
+|:---:|:---:|:---:|
+| **2** | **Problem-First, Always** | **Long-term Partners** |
+
+</div>
 
 > *Small number. Big intent. We'd rather do two things right than twenty things average.*
 
 ---
 
-## Our Philosophy
+## 💡 Our Philosophy
 
-Most agencies ask: *"What should the website look like?"*
+Most agencies ask:
+> *"What should the website look like?"*
 
-We ask: *"Why aren't the right students finding you? Why are visitors leaving without reaching out? What is your digital presence costing you that you can't see?"*
+We ask:
+> *"Why aren't the right students finding you? Why are visitors leaving without reaching out? What is your digital presence costing you that you can't see?"*
 
-Only after we answer those questions do we open a design tool.
+**Only after we answer those questions do we open a design tool.**
 
 ---
 
-## Let's Work Together
+## 🤝 Work With Us
 
 If you run or represent an educational institution and your digital presence isn't performing the way your institution deserves — let's talk.
 
@@ -88,14 +104,8 @@ If you run or represent an educational institution and your digital presence isn
 [![Website](https://img.shields.io/badge/Our%20Website-8A3FFC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://webxnova.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webx-nova/)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A3FFC,0F62FE,8A3FFC&height=120&section=footer&animation=fadeIn" width="100%"/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE,8A3FFC&height=100&section=footer" width="100%"/>
-
-*Built with purpose. Driven by impact. WebX Nova © 2024*
+*Built with purpose. Driven by impact. WebX Nova © 2025*
 
 </div>
