@@ -84,9 +84,9 @@ If you run or represent an educational institution and your digital presence isn
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email%20Us-0F62FE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@webxnova.com)
+[![Email](https://img.shields.io/badge/Email%20Us-0F62FE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webxnovaagency.com)
 [![Website](https://img.shields.io/badge/Our%20Website-8A3FFC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://webxnova.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/webxnova)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webx-nova/)
 
 </div>
 
